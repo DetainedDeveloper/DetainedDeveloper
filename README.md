@@ -35,7 +35,7 @@
 <tr>
 <td><h3>Connect with me</h3></td>
 <td>
-<a href="https://www.linkedin.com/in/jay-ghadiyali-6557a3187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jay's LinkedIn" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/jay-ghadiyali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jay's LinkedIn" height="30" width="40"/></a>
 <a href="https://instagram.com/_infinite.me_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jay's Instagram" height="30" width="40"/></a>
 <a href="https://stackoverflow.com/users/10204862/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Jay's StackOverflow" height="30" width="40"/></a>
 <a href="https://www.youtube.com/channel/UC73ywD2xWwNncIZxZvcXGmQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Jay's YouTube" height="30" width="40"/></a>

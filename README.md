@@ -19,7 +19,7 @@
 
     - It's made using **Flutter** and **Flame 🔥 Engine** and hosted on **Firebase**
     
-- My primary areas of interest are **Maching Learning and AI** and apart from that, **I love Flutter**!
+- My primary areas of interest are **Machine Learning and AI** and apart from that, **I love Flutter**!
 
 - Check out rest of my projects [**Here!**](https://github.com/DetainedDeveloper?tab=repositories)
 

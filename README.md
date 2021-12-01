@@ -55,7 +55,7 @@
 <tr>
 <td><h3>Tools</h3></td>
 <td>
-<a href="https://flutter.dev" target="_blank"><img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="Flutter" width="160" height="48"/></a>
+<a href="https://flutter.dev" target="_blank"><img src="https://docs.flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="Flutter" width="160" height="48"/></a>
 <a href="https://developer.android.com" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/ve2848ad92313fddfcd40baeb58a2f663fe2fd55c371a714a6bb3e329e2b15223/android/images/lockup.svg" alt="Android" width="200" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" alt="Firebase" width="40" height="40"/></a>
 <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/></a>

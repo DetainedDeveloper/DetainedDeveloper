@@ -23,7 +23,7 @@
 
 - Check out rest of my projects [**Here!**](https://github.com/DetainedDeveloper?tab=repositories)
 
-- Currently, I am working full time as Mobile App Developer at Hinditron Group of Companies, Mumbai.
+- Currently, I am **working full time as Mobile App Developer** at Hinditron Group of Companies, Mumbai.
 
 - Also, my **Portfolio Website** is coming soon! So, watch out 👀 for it!
 

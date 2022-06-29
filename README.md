@@ -45,7 +45,7 @@
 <tr>
 <td><h3>Languages</h3></td>
 <td>
-<a href="https://dart.dev/" target="_blank"><img src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg" alt="Dart" width="120" height="40"/></a>
+<a href="https://dart.dev/" target="_blank"><img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="Dart" width="144" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JavaScript" width="40" height="40"/></a>
 <a href="https://www.java.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/java.svg" alt="Java" width="80" height="40"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="160" height="40"/></a>
